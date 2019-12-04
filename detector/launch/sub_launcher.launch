@@ -1,0 +1,4 @@
+<launch>
+	<node pkg="pcl_monitor" type="subscriber.py" name="topic_subscriber" output="screen">
+	</node>
+</launch>

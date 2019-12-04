@@ -1,0 +1,4 @@
+<launch>
+	<node pkg="pcl_monitor" type="printer.py" name="printer_node" output="screen">
+	</node>
+</launch>

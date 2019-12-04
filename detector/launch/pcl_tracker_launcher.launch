@@ -1,0 +1,4 @@
+<launch>
+ <node pkg="pcl_monitor" type="pc_tracker.py" name="pctrack" output="screen">
+ </node>
+</launch>

@@ -1,0 +1,4 @@
+<launch>
+ <node pkg="pcl_monitor" type="odom_sub.py" name="odomSub_node" output="screen">
+ </node>
+</launch>
